@@ -7,10 +7,12 @@ nagios_cli -show dbstatus
 
 
 ![screenshot](https://github.com/Haameed/nagios_cli_source/blob/main/dbstatus.jpeg)
+
 nagios_cli -show data_writer
 
 
 ![screenshot](https://github.com/Haameed/nagios_cli_source/blob/main/data_writer.jpeg)
+
 nagios_cli -show workers
 
 
