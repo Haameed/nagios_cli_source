@@ -1,0 +1,13 @@
+warning_threshold = 70
+critical_threshold = 80
+processes_warning = 250
+processes_critical = 400
+auto_kill_minutes = 60  # minutes
+slave_db_user = 'slave'
+slave_db_pass = 'slave_pass'
+slave1 = 'x.x.x.x.'
+slave2 = 'y.y.y.y'
+db_user = 'db_user'
+db_pass = 'db_pass'
+mobinnet_db = 'z.z.z.z'
+old_checks_threshold = 100
